@@ -3,3 +3,4 @@ Gehe auf [Discord Developer Portal](https://discord.com/developers/applications)
 auf "Bot" und drücke "Add Bot". 
 
 ## Bot einladen:
+Gehe wieder auf [Discord Developer Portal](https://discord.com/developers/applications) und wähle unten "bot" aus, nun aktivierst du alle nötigen berrechtigungen und Kopiere den untersten Link. Besuche den Link wie eine Webseite und wähle deinen Server und erledige alle schritte. Nun hast du den Bot auf deinem Discord Server.
